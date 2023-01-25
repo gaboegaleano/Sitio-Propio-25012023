@@ -1,0 +1,106 @@
+/*
+Raleway
+thin 1oo
+ExtraLight 200
+Light 300 Italic
+Regular 400
+Black 900
+
+font-family: 'Raleway', sans-serif;
+ */
+
+
+
+h1 {
+    position: relative;
+    font-family: Raleway Black 900;
+    top: 70px;
+}
+
+h2 {
+   font-family: Raleway Black 900;
+}
+
+h5 {
+    font-family: Raleway Regular 400;
+    position: relative;
+    top: 70px;
+}
+
+.fotoGabriel {
+    position: relative;
+    top: 70px;
+    bottom: 50px;
+    left: 50px;
+    width: 200px;
+    height: 210px;
+    border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+    border: 10px solid #0D47A1;
+}
+
+#navbar {
+    font-family: raleway;
+}
+
+p{
+    font-family: raleway;
+}
+
+#expLaboral {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 80px;
+}
+
+#Estudios {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 80px;
+}
+
+.Telecom {
+    position: relative;
+    top: 230px;
+    left: 50px;
+    width: 200px;
+    height: 200px;
+    border-radius: 49px 51px 52px 49px;
+    -webkit-border-radius: 49px 51px 52px 49px;
+    -moz-border-radius: 49px 51px 52px 49px;
+}
+
+.Aol {
+    position: relative;
+    top: 160px;
+    left: 40px;
+    width: 200px;
+    height: 80px;
+}
+
+.Multicanal {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    width: 200px;
+    height: 180px;
+}
+
+footer{
+    position: relative;
+    top: 50px;
+    font-family: raleway;
+    background-color: #5DADE2;
+}
+
+.li{
+    font-family: raleway;
+    font-style: oblique;
+}
+
+#botonLinkedin{
+    position: relative;
+    top: 80px;
+    left: 0px;
+}
